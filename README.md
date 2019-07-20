@@ -1,3 +1,3 @@
 # ML_project
 
-Team: Alexandre Geraldo, Annie Lai, Flora Ruan, Hi Shin Shim, Sylviane 
+Team: Sylviane Fezeu, Alexandre Geraldo, Annie Lai, Flora Ruan, Hi Shin Shim
