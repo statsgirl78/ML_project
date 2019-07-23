@@ -42,8 +42,19 @@ ___
 + Automated Bitcoin Trading via Machine Learning Algorithms.
     + http://cs229.stanford.edu/proj2014/Isaac%20Madan,%20Shaurya%20Saluja,%20Aojia%20Zhao,Automated%20Bitcoin%20Trading%20via%20Machine%20Learning%20Algorithms.pdf
 
++ Using Census Data to Predict Solar Panel Deployment
+    + http://cs229.stanford.edu/proj2018/report/104.pdf
+
++ Fraud detection using machine learning
+    + http://cs229.stanford.edu/proj2018/poster/261.pdf
+
++ Generating Place Recommendations for Travelers
+    + http://cs229.stanford.edu/proj2017/final-reports/5220868.pdf
 
 # Useful links
 ___
-+ http://cs229.stanford.edu/projects.html
++ Stanford
+    + http://cs229.stanford.edu/projects.html
++ UCI
+    + https://archive.ics.uci.edu/ml/index.php
 
